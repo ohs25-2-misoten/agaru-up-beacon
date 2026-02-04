@@ -1,0 +1,10 @@
+[project]
+name = "agaru-up-beacon"
+version = "0.1.0"
+description = "Raspberry Pi 4B iBeacon BLE Beacon"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "bless>=0.2.6",
+    "python-dotenv>=1.2.1",
+]
